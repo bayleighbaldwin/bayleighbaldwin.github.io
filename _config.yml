@@ -1,7 +1,7 @@
 run jekyll new <bayleighbaldwin.github.io>
 # site configuration
 
-theme: jekyll-theme-chirpy
+theme: jekyll-theme-minimal
 
 lang: en
 
@@ -40,33 +40,6 @@ social:
     # - https://twitter.com/username
 
 # end of `jekyll-seo-tag` settings
-
-# color scheme setting
-# note: empty will follow the system prefer color by default,
-# and there will be a toggle to switch the theme between dark
-# and light on the bottom left of the sidebar.
-# available options: light, dark
-theme_mode: dark
-
-# CDN endpoint for media resources
-# note: once assigned, the CDN URL will be added to all media resource paths
-# starting with '/' (site avatar, post images, audio files, video files)
-# e.g. 'https://cdn.com'
-#cdn:
-
-# URL of the site-wide social preview image used in SEO `og:image` meta tag.
-# it can be overridden by a customized `page.image` in front matter.
-#social_preview_image: # string, local or CORS resources
-
-#pwa:
-#  enabled: true # The option for PWA feature (installable)
-#  cache:
-#    enabled: true # The option for PWA offline cache
-#    # paths defined here will be excluded from the PWA cache.
-#    # usually its value is the `baseurl` of another website that
-#    # shares the same domain name as the current website.
-#    deny_paths:
-#      # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
 paginate: 10
 
