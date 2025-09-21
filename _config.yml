@@ -5,78 +5,40 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # https://kevinnovak.github.io/Time-Zone-Picker
-timezone: America/New_York
+timezone: America/Chicago
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 
 # main title
-title: Corey Goldberg
+title: Bayleigh Baldwin
 
 # subtitle
-tagline: Blog
+tagline: Site
 
 # used by seo meta and the atom feed
-description: Blog by Corey Goldberg
+description: Research Site by Bayleigh Baldwin
 
 # protocol & hostname for your site (it does not end with a '/')
-url: https://cgoldberg.github.io
+url: https://bayleighbaldwin.github.io
 
 author:
-  name: Corey Goldberg
+  name: Bayleigh Baldwin
   # sets the `author.url` property. helps Google to disambiguate the correct author of articles
-  url: https://github.com/cgoldberg
-
-# URL to a site-wide logo (e.g.: /assets/your-company-logo.png)
-#logo:
+  url: https://github.com/bayleigh.baldwin
 
 github:
-  username: cgoldberg
-
-#twitter:
-#  username: cgoldberg
+  username: bayleighbaldwin
 
 social:
   # displayed as the default author of the posts and the copyright owner in the footer
-  name: Corey Goldberg
-  #email: example@domain.com
+  name: Bayleigh Baldwin
   links:
     # first element serves as the copyright owner's link
-    - https://github.com/cgoldberg
-    - https://www.linkedin.com/in/cgoldberg
     # uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://twitter.com/username
 
-webmaster_verifications:
-  google: U9-hCLAR44wY-5vEZSfl8iVgClFj5L0nuUgP8pdl2xo
-  #  bing: # fill in your Bing verification code
-  #  alexa: # fill in your Alexa verification code
-  #  yandex: # fill in your Yandex verification code
-  #  baidu: # fill in your Baidu verification code
-  #  facebook: # fill in your Facebook verification code
-
 # end of `jekyll-seo-tag` settings
-
-# web analytics settings
-analytics:
-  google:
-    id: G-VDZPG2HGL4
-#  goatcounter:
-#    id: # fill in your GoatCounter ID
-#  umami:
-#    id: # fill in your Umami ID
-#    domain: # fill in your Umami domain
-#  matomo:
-#    id: # fill in your Matomo ID
-#    domain: # fill in your Matomo domain
-#  cloudflare:
-#    id: # fill in your Cloudflare Web Analytics token
-#  fathom:
-#    id: # fill in your Fathom Site ID
-
-# page views settings
-#pageviews:
-#  provider: # only supports 'goatcounter'
 
 # color scheme setting
 # note: empty will follow the system prefer color by default,
@@ -91,46 +53,9 @@ theme_mode: dark
 # e.g. 'https://cdn.com'
 #cdn:
 
-# avatar on sidebar (supports local or CORS resources)
-avatar: /assets/img/corey_goldberg.jpg
-
 # URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # it can be overridden by a customized `page.image` in front matter.
 #social_preview_image: # string, local or CORS resources
-
-# global switch for TOC in posts (boolean)
-toc: false
-
-#comments:
-  # global switch for the post-comment system. empty means disabled.
-  #provider: disqus # [disqus | utterances | giscus]
-  # provider options are as follows:
-  #› https://disqus.com/
-  #disqus:
-  #  shortname: cgoldberg
-  #› https://utteranc.es
-  #utterances:
-  #  repo: # <gh-username>/<repo>
-  #  issue_term: # < url | pathname | title | ...>
-  #› https://giscus.app
-  #giscus:
-  #  repo: # <gh-username>/<repo>
-  #  repo_id:
-  #  category:
-  #  category_id:
-  #  mapping: # optional, default to 'pathname'
-  #  strict: # optional, default to '0'
-  #  input_position: # optional, default to 'bottom'
-  #  lang: # optional, default to the value of `site.lang`
-  #  reactions_enabled: # optional, default to the value of `1`
-
-# self-hosted static assets (optional) › https://github.com/cotes2020/chirpy-static-assets
-assets:
-  self_host:
-    enabled: false # boolean, empty means false
-    # specify the Jekyll environment, empty means both
-    # only works if `assets.self_host.enabled` is 'true'
-    env: # [development | production]
 
 #pwa:
 #  enabled: true # The option for PWA feature (installable)
