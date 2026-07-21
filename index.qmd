@@ -1,5 +1,3 @@
-------------------------------------------------------------------------
-
 ---
 title: "Bayleigh Baldwin"
 description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
@@ -25,6 +23,9 @@ about:
       text: LinkedIn
       href: https://linkedin.com/bayleighbaldwin
       target: _blank
+#    - text: "{{< ai google-scholar >}} Google Scholar"
+#      href: https://scholar.google.com
+#      target: _blank
 #    - text: "{{< ai researchgate >}} Research Gate"
 #      href: https://www.researchgate.net
 #      target: _blank
@@ -48,12 +49,12 @@ listing:   # Comment the listing section and delete corresponding lines in the i
 ---
 
 ::: {#hero-heading}
-I'm a second year Linguistics PhD student at the University of Kansas.
+I'm a second-year Linguistics PhD student at the University of Kansas.
 
 ## Education
 
-- PhD, Linguistics, University of Kansas (2025-2030)
-- B.A., Linguistics and Spanish, University of California, Davis (2021-2025)
+- PhD, Linguistics, The University of Kansas (2025-2030)
+- BA, Linguistics and Spanish, University of California, Davis
 :::
 
 <!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->

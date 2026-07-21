@@ -6,18 +6,8 @@ title-block-banner: false
 
 <center>
 
-**Quarto Academic**
+[KU Linguistics Profile](https://linguistics.ku.edu/people/bayleigh-baldwin)
 
-School
-
-College
-
-University
-
-Address:
-
-Phone:
-
-E-mail:
+Email: bayleigh **dot** baldwin **at** ku.edu
 
 </center>
