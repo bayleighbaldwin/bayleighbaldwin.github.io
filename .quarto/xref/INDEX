@@ -1,0 +1,20 @@
+{
+  "index.qmd": {
+    "index.html": "b8bb5ab7"
+  },
+  "contact.qmd": {
+    "contact.html": "4f0dc484"
+  },
+  "about.qmd": {
+    "about.html": "b8eb374b"
+  },
+  "posts.qmd": {
+    "posts.html": "87ad371c"
+  },
+  "pub-listing.qmd": {
+    "pub-listing.html": "374ee315"
+  },
+  "people.qmd": {
+    "people.html": "eb9bf562"
+  }
+}

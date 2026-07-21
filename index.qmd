@@ -1,0 +1,72 @@
+------------------------------------------------------------------------
+
+---
+title: "Bayleigh Baldwin"
+description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
+image: "files/images/placeholder4.JPG"
+page-navigation: false
+toc: false
+#sidebar: false
+page-layout: full
+
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 70%
+  links:
+    - icon: sun
+      text: Lab
+      href: https://sociolinguistics.ku.edu
+      target: _blank
+    - icon: envelope
+      text: E-mail
+      href: mailto:bayleigh.baldwin@ku.edu    
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/bayleighbaldwin
+      target: _blank
+#    - text: "{{< ai researchgate >}} Research Gate"
+#      href: https://www.researchgate.net
+#      target: _blank
+
+listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
+  - id: recent-posts
+    contents: 
+      - posts
+      - posts/post-links.yml
+    exclude:
+      title: ""
+    type: grid
+    max-items: 3
+#    image-height: 150px
+    page-size: 3 #set same as max-times to remove the page number setting
+    fields: [image, date, title, subtitle]
+    max-description-length: 75
+    sort: 
+      - "date desc"
+      - "title asc"
+---
+
+::: {#hero-heading}
+I'm a second year Linguistics PhD student at the University of Kansas.
+
+## Education
+
+- PhD, Linguistics, University of Kansas (2025-2030)
+- B.A., Linguistics and Spanish, University of California, Davis (2021-2025)
+:::
+
+<!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
+
+## Recent Posts
+
+Check out the latest  [Papers](posts.qmd#category=paper) ,  [News](posts.qmd#category=news) ,  [Events](posts.qmd#category=event) , and  [More »](/posts.qmd)
+
+::: {#recent-posts}
+:::
+
+<p align="right">
+
+[All Posts »](/posts.qmd)
+
+</p>
