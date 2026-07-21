@@ -14,29 +14,25 @@ website:
   description: "Image of Kansas sunflowers"
  
   navbar:
-    background: pink  # You can change the background color here
+    background: aliceblue # You can change the background color here
 
     left:   # You can comment out all navigation items here if you just like to keep the index page only
     - text: Home
       href: index.qmd
-    - text: About
-      menu:
-        - text: News
-          href: posts.qmd#category=news
-        - text: Contact
-          href: contact.qmd             
+    - text: News
+      href: posts.qmd#category=news
     - text: Research
       menu:
-        - text: Publications Listing  # Automatically generated from publications.xlsx
-          href: pub-listing.qmd
-        - text: Publications  # Manually curated list of publications
-          href: publications.qmd            
+        ##- text: Publications Listing  # Automatically generated from publications.xlsx
+        ##  href: pub-listing.qmd
         - text: Selected Papers
           href: posts.qmd#category=paper
+        - text: Presentations  # Manually curated list of publications
+          href: presentations.qmd            
     - text: Teaching # Comment the Teaching part out to remove the Teaching page
       href: teaching.qmd
-
-
+    - text: Contact
+      href: contact.qmd  
     right: 
       - text: CV
         href: files/july26cv.pdf
