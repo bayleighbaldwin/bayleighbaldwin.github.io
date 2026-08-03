@@ -11,7 +11,7 @@ author-meta: "Bayleigh Baldwin"
 website:
   title: "Bayleigh Baldwin"
   image: "https://quarto.org/quarto.png"
-  description: "Image of Kansas sunflowers"
+  description: "Image of Pleasanton, CA"
  
   navbar:
     background: aliceblue # You can change the background color here
@@ -27,8 +27,10 @@ website:
         ##  href: pub-listing.qmd
         - text: Selected Papers
           href: posts.qmd#category=paper
-        - text: Presentations  # Manually curated list of publications
-          href: presentations.qmd            
+        - text: Presentations  # Manually curated list of presentations
+          href: presentations.qmd
+        - text: Ongoing Projects  
+          href: projects.qmd 
     - text: Teaching # Comment the Teaching part out to remove the Teaching page
       href: teaching.qmd
     - text: Contact
@@ -37,7 +39,7 @@ website:
       - text: CV
         href: files/july26cv.pdf
       - icon: github
-        href: https://github.com/drganghe/quarto-academic-website-template
+        href: https://github.com/bayleighbaldwin
         target: _blank
       - text: "{{< fa brands bluesky >}}"
         href: https://bsky.app/profile/bayleighbaldwin.bsky.social
@@ -50,7 +52,7 @@ website:
     center: "Build on [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io)"
     right:  
       - icon: github
-        href: https://github.com/drganghe/quarto-academic-website-template
+        href: https://github.com/bayleighbaldwin
         target: _blank
       - text: "{{< fa brands bluesky >}}" 
         href: https://bsky.app/profile/bayleighbaldwin.bsky.social

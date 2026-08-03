@@ -23,9 +23,9 @@
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Projects",
+    "title": "Ongoing Projects",
     "section": "",
-    "text": "Order By\n      Default\n      \n      \n      \n        Title\n      \n      \n        Team\n      \n      \n        Funder\n      \n      \n        Description\n      \n      \n        Start\n      \n      \n        End\n      \n      \n        Funding\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nTeam\n\n\n\nFunder\n\n\n\nDescription\n\n\n\nFunding\n\n\n\nStart\n\n\n\nEnd\n\n\n\n\n\n\n\n\n\n\n\nExploring \n\n\nAcademic Website\n\n\nFunder\n\n\nThe goal of this project is to investigate .\n\n\n$0\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
+    "text": "Description coming soon!"
   },
   {
     "objectID": "posts/news-title/index.html",
@@ -194,5 +194,40 @@
     "title": "Teaching",
     "section": "",
     "text": "Description coming soon!"
+  },
+  {
+    "objectID": "projects.html#project-title-one",
+    "href": "projects.html#project-title-one",
+    "title": "Ongoing Projects",
+    "section": "",
+    "text": "Description of the project goes here — what it’s about, what you’re doing on it, etc."
+  },
+  {
+    "objectID": "projects.html#project-title-two",
+    "href": "projects.html#project-title-two",
+    "title": "Ongoing Projects",
+    "section": "Project Title Two",
+    "text": "Project Title Two\n\n\n\n\n\nDescription coming soon!"
+  },
+  {
+    "objectID": "projects.html#project-title-three",
+    "href": "projects.html#project-title-three",
+    "title": "Ongoing Projects",
+    "section": "Project Title Three",
+    "text": "Project Title Three\n\n\n\n\n\nDescription coming soon!"
+  },
+  {
+    "objectID": "projects.html#what-are-the-acoustic-and-racial-dimensions-of-country-talk",
+    "href": "projects.html#what-are-the-acoustic-and-racial-dimensions-of-country-talk",
+    "title": "Ongoing Projects",
+    "section": "",
+    "text": "Description coming soon!"
+  },
+  {
+    "objectID": "projects.html#how-do-bisexual-stoner-women-construct-their-identity-through-language",
+    "href": "projects.html#how-do-bisexual-stoner-women-construct-their-identity-through-language",
+    "title": "Ongoing Projects",
+    "section": "How do bisexual stoner women construct their identity through language?",
+    "text": "How do bisexual stoner women construct their identity through language?\n\n\n\n\n\nDescription coming soon!"
   }
 ]

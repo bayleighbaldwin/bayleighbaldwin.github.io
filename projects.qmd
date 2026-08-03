@@ -1,35 +1,24 @@
 ---
-title: "Projects"
-subtitle: "Funded projects"
+title: "Ongoing Projects"
 page-layout: full
-listing: 
-- id: projects
-  sort: "started desc"
-  type: table
-  fields: [image, title, author, subtitle, description, funding, started, ended]
-  grid-item-align: left
-  grid-columns: 3
-  image-height: 30px
-  field-display-names: 
-      title: "Title"
-      author: "Team"
-      subtitle: "Funder"
-      started: "Start"
-      ended: "End"
-      funding: "Funding"
-#  categories: true
-#  sort-ui: true
-#  filter-ui: true
-  contents: 
-#    - projects/ 
-    - projects.yml 
 ---
 
-
-:::{#projects}
+## What are the acoustic and racial dimensions of "country talk"?
+::: {.grid}
+::: {.g-col-12 .g-col-md-2}
+![](files/images/project1.jpeg)
+:::
+::: {.g-col-12 .g-col-md-10}
+Description coming soon!
+:::
 :::
 
-
-<!--Include social share buttons-->
-
-{{< include /files/includes/_socialshare.qmd >}}
+## How do bisexual stoner women construct their identity through language?
+::: {.grid}
+::: {.g-col-12 .g-col-md-2}
+![](files/images/project2.jpg)
+:::
+::: {.g-col-12 .g-col-md-10}
+Description coming soon!
+:::
+:::

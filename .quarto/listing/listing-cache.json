@@ -19,6 +19,10 @@
     "index.qmd": [
       "posts",
       "posts/post-links.yml"
+    ],
+    "projects.qmd": [
+      "projects.yml",
+      "projects/"
     ]
   }
 }
