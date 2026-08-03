@@ -1,10 +1,10 @@
 ---
-title: "News item"
-description: "About new item"
+title: "Upcoming presentation at LavLang 32"
+description: "Presentation"
 author: "News"
-date: "2024-06-24"
+date: "2026-08-26"
 categories: [news]
-image: "/files/images/placeholder3.JPG"
+image: "/files/images/lavlang32.PNG"
 #css: /custom.css
 #draft: true
 ---
@@ -12,8 +12,4 @@ image: "/files/images/placeholder3.JPG"
 
 ## Summary
 
-About the news
-
-<!--Include social share buttons-->
-
-{{< include /files/includes/_socialshare.qmd >}}
+I will be presenting a project launch talk at LavLang 32 titled "Quantifying 'Chill' Affect: The Case of Bisexual Stoners."

@@ -19,5 +19,14 @@
   },
   "presentations.qmd": {
     "presentations.html": "84dd3873"
+  },
+  "posts/paper-title/index.qmd": {
+    "index.html": "a27de8c2"
+  },
+  "teaching.qmd": {
+    "teaching.html": "85b14acd"
+  },
+  "posts/news-title/index.qmd": {
+    "index.html": "3f3372cf"
   }
 }

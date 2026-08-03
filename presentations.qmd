@@ -9,8 +9,7 @@ css: custom.css
 
 ## Selected Work
 
-Einstein, A., Podolsky, B., & Rosen, N. (1935). [Can quantum-mechanical description of physical reality be considered complete?](posts/paper-title/index.qmd). *Physical review*, 47(10), 777. \[[pdf](https://scholar.google.com/)\] \[[code and data](https://doi.org)\]  
+Baldwin, B., Aoki, N., Wade, L., Zellou, G. (2026). Talkin’ Country in W[a:]ne Country: Sociolinguistic Variation in Napa, California (poster). PLC 50. 28 Feb-1 Mar 2026. Philadelphia, PA. \[[pdf](https://bayleighbaldwin.github.io/files/posters/2026-PLC.pdf)\]
 
 <center><hr style="width:50%"></center>
 
-Einstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. *American Journal of Physics*, 33(5), 367. [[pdf](https://icg.isy.liu.se/en/phd-courses/quantum_foundations/references/Einstein1905b.pdf)] 
