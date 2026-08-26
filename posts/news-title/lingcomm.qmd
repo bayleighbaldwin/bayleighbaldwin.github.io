@@ -1,10 +1,10 @@
 ---
 title: "LingComm blog post published about KU Linguistics outreach event"
-description: "Presentation"
+description: "Media"
 author: "News"
 date: "2026-08-21"
 categories: [news]
-image: "/files/images/lavlang32.PNG"
+image: "/files/images/lingcomm.jpeg"
 #css: /custom.css
 #draft: true
 ---
