@@ -2,7 +2,7 @@
 title: "Upcoming presentation at LavLang 32"
 description: "Presentation"
 author: "News"
-date: "2026-08-26"
+date: "2026-08-02"
 categories: [news]
 image: "/files/images/lavlang32.PNG"
 #css: /custom.css

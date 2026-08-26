@@ -1,0 +1,15 @@
+---
+title: "LingComm blog post published about KU Linguistics outreach event"
+description: "Presentation"
+author: "News"
+date: "2026-08-21"
+categories: [news]
+image: "/files/images/lavlang32.PNG"
+#css: /custom.css
+#draft: true
+---
+
+
+## Summary
+
+Check out the recent [LingComm IRL feature](https://lingcomm.org/2026/08/21/lingcomm-irl-at-the-lawrence-kansas-library-interview-with-lacey-wade-and-teammates/) about KU Linguistics' public outreach event. After the success of our first event, we are planning on hosting more fun and educational public linguistics events in the future. Additionally, our team [received a commendation from the 2026 LingComm Grant committee](https://lingcomm.org/grantees/).

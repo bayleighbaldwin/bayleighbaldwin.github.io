@@ -8,7 +8,7 @@
 <title>Bayleigh Baldwin</title>
 <link>https://bayleighbaldwin.github.io/bayleighbaldwin/posts.html</link>
 <atom:link href="https://bayleighbaldwin.github.io/bayleighbaldwin/posts.xml" rel="self" type="application/rss+xml"/>
-<description>Image of Kansas sunflowers</description>
+<description>Image of Pleasanton, CA</description>
 <image>
 <url>https://quarto.org/quarto.png</url>
 <title>Bayleigh Baldwin</title>
@@ -19,7 +19,7 @@
 <item>
   <title>Upcoming presentation at LavLang 32</title>
   <dc:creator>News </dc:creator>
-  <link>https://bayleighbaldwin.github.io/bayleighbaldwin/posts/news-title/</link>
+  <link>https://bayleighbaldwin.github.io/bayleighbaldwin/posts/news-title/index copy.html</link>
   <description><![CDATA[ 
 
 
@@ -34,39 +34,31 @@
 
  ]]></description>
   <category>news</category>
-  <guid>https://bayleighbaldwin.github.io/bayleighbaldwin/posts/news-title/</guid>
+  <guid>https://bayleighbaldwin.github.io/bayleighbaldwin/posts/news-title/index copy.html</guid>
   <pubDate>Wed, 26 Aug 2026 05:00:00 GMT</pubDate>
   <media:content url="https://bayleighbaldwin.github.io/bayleighbaldwin/files/images/lavlang32.PNG" medium="image"/>
 </item>
 <item>
-  <title>Event item</title>
-  <dc:creator>Event </dc:creator>
-  <link>https://bayleighbaldwin.github.io/bayleighbaldwin/posts/event-title/</link>
+  <title>Upcoming presentation at LavLang 32</title>
+  <dc:creator>News </dc:creator>
+  <link>https://bayleighbaldwin.github.io/bayleighbaldwin/posts/news-title/lavlang26.html</link>
   <description><![CDATA[ 
 
 
 
 
-<p><a href="https://drganghe.github.io/quarto-academic-website-template/"><img src="https://bayleighbaldwin.github.io/bayleighbaldwin/files/images/placeholder2.JPG" class="img-fluid" style="width:90.0%"></a></p>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
-</div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<p>I will be presenting a project launch talk at LavLang 32 titled “Quantifying ‘Chill’ Affect: The Case of Bisexual Stoners.”</p>
 
 
+</section>
 
  ]]></description>
-  <category>event</category>
-  <category>presentation</category>
-  <guid>https://bayleighbaldwin.github.io/bayleighbaldwin/posts/event-title/</guid>
-  <pubDate>Tue, 03 Sep 2024 05:00:00 GMT</pubDate>
-  <media:content url="https://bayleighbaldwin.github.io/bayleighbaldwin/files/images/placeholder2.JPG" medium="image"/>
+  <category>news</category>
+  <guid>https://bayleighbaldwin.github.io/bayleighbaldwin/posts/news-title/lavlang26.html</guid>
+  <pubDate>Wed, 26 Aug 2026 05:00:00 GMT</pubDate>
+  <media:content url="https://bayleighbaldwin.github.io/bayleighbaldwin/files/images/lavlang32.PNG" medium="image"/>
 </item>
 </channel>
 </rss>
