@@ -21,7 +21,7 @@ about:
       href: mailto:bayleigh.baldwin@ku.edu    
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com/bayleighbaldwin
+      href: https://www.linkedin.com/in/bayleigh-baldwin
       target: _blank
 #    - text: "{{< ai google-scholar >}} Google Scholar"
 #      href: https://scholar.google.com
