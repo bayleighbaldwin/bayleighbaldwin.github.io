@@ -49,11 +49,13 @@ listing:   # Comment the listing section and delete corresponding lines in the i
 ---
 
 ::: {#hero-heading}
-I'm a second-year Linguistics PhD student at the University of Kansas.
+Hi, I'm Bayleigh (she/they)!
+
+I'm a second-year Linguistics PhD student at the University of Kansas and I study how people create social meaning through language.
 
 ## Education
 
-- PhD, Linguistics, The University of Kansas (2025-2030)
+- PhD, Linguistics, University of Kansas (2025-2030)
 - BA, Linguistics and Spanish, University of California, Davis (2021-2025)
 :::
 

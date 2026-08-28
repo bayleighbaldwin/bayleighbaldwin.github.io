@@ -10,13 +10,13 @@ title-block-banner: false
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder1.jpg)
+![](files/images/computer_stock.jpeg)
 
 :::
 
 ::: {.g-col-12 .g-col-md-10}
 
-Description coming soon!
+The Internet and Artificial Intelligence are transforming the way people use and think about language. In this course, students will take an in-depth dive into their impact in society, including in business, law, and education, and trace how they reflect and shape cultural values and social identities. Students will examine how language has evolved for online spaces; how it functions as a resource for expressing identity and belonging; how humans interact with AI in everyday contexts; and how linguistic knowledge is used to train AI systems—while also considering how this process can reproduce or amplify social biases. By the end of the semester, students will be equipped with critical tools for investigating the intersections of language, technology, and society—and for understanding how internet communication and AI are reshaping the future of human interaction.
 
 :::
 
