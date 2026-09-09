@@ -1,0 +1,15 @@
+---
+title: "Upcoming presentation at NWAV 54 in Montreal"
+description: "Presentation"
+author: "News"
+date: "2026-09-09"
+categories: [news]
+image: "/files/images/nwav54.jpeg"
+#css: /custom.css
+#draft: true
+---
+
+
+## Summary
+
+I will be presenting a talk at NWAV 54 (New Ways of Analyzing Variation 54) titled "High and Bi: Covariation in Creak and COG Among Bisexual Stoner Women." Shout out to NWAV for promoting a culture of entertaining titles.
